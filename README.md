@@ -21,7 +21,7 @@ Project consists of a simple Music Player with basic music controls.
 
 <p align="center">
 Main Screen: <br/>
-<img src="https://imgur.com/rAqiyGn" height="80%" width="80%" alt="Music Player Demo"/>
+<img src="https://imgur.com/rAqiyGn.png" height="80%" width="80%" alt="Music Player Demo"/>
 <br />
 <br />
 Controller Example Code:  <br/>
