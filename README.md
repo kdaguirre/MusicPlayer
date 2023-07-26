@@ -16,6 +16,7 @@ Project consists of a simple Music Player with basic music controls.
 
 - <b>Windows 10</b>
 - <b>Apache NetBeans</b>
+- <b>SceneBuilder</b>
 
 <h2>Program walk-through:</h2>
 
