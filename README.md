@@ -25,11 +25,11 @@ Main Screen: <br/>
 <br />
 <br />
 Controller Example Code:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Music Player Demo"/>
+<img src="https://imgur.com/KAb3Hjq.png" height="80%" width="80%" alt="Music Player Demo"/>
 <br />
 <br />
-Music Files: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Music Player Demo"/>
+Non-Cpyright Music Files: <br/>
+<img src="https://imgur.com/S38D7dK.png" height="80%" width="80%" alt="Music Player Demo"/>
 <br />
 <br />
 
