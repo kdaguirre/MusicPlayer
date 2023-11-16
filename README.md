@@ -1,6 +1,7 @@
 <h1>Music Player</h1>
 
  ### [Code Explanation Video](https://www.youtube.com/watch?v=v91P203vBss&t=266s)
+ ### [Demo Video](https://www.youtube.com/watch?v=4bUDoo_hfjU)
 
 <h2>Description</h2>
 Project consists of a simple Music Player with basic music controls.
